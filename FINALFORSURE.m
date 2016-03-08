@@ -46,5 +46,3 @@ plot(f3)
 f1(1)
 f2(1)
 f3(1)
-
-%this is a test
